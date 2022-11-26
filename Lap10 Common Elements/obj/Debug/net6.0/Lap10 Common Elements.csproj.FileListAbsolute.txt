@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\Code C#\Day3\Lap10 Common Elements\Lap10 Common Elements\bin\Debug\net6.0\Lap10 Common Elements.exe
+C:\Users\Dell\Documents\Code C#\Day3\Lap10 Common Elements\Lap10 Common Elements\bin\Debug\net6.0\Lap10 Common Elements.deps.json
+C:\Users\Dell\Documents\Code C#\Day3\Lap10 Common Elements\Lap10 Common Elements\bin\Debug\net6.0\Lap10 Common Elements.runtimeconfig.json
+C:\Users\Dell\Documents\Code C#\Day3\Lap10 Common Elements\Lap10 Common Elements\bin\Debug\net6.0\Lap10 Common Elements.dll
+C:\Users\Dell\Documents\Code C#\Day3\Lap10 Common Elements\Lap10 Common Elements\bin\Debug\net6.0\Lap10 Common Elements.pdb
+C:\Users\Dell\Documents\Code C#\Day3\Lap10 Common Elements\Lap10 Common Elements\obj\Debug\net6.0\Lap10 Common Elements.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Code C#\Day3\Lap10 Common Elements\Lap10 Common Elements\obj\Debug\net6.0\Lap10 Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Code C#\Day3\Lap10 Common Elements\Lap10 Common Elements\obj\Debug\net6.0\Lap10 Common Elements.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Code C#\Day3\Lap10 Common Elements\Lap10 Common Elements\obj\Debug\net6.0\Lap10 Common Elements.AssemblyInfo.cs
+C:\Users\Dell\Documents\Code C#\Day3\Lap10 Common Elements\Lap10 Common Elements\obj\Debug\net6.0\Lap10 Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Code C#\Day3\Lap10 Common Elements\Lap10 Common Elements\obj\Debug\net6.0\Lap10 Common Elements.dll
+C:\Users\Dell\Documents\Code C#\Day3\Lap10 Common Elements\Lap10 Common Elements\obj\Debug\net6.0\refint\Lap10 Common Elements.dll
+C:\Users\Dell\Documents\Code C#\Day3\Lap10 Common Elements\Lap10 Common Elements\obj\Debug\net6.0\Lap10 Common Elements.pdb
+C:\Users\Dell\Documents\Code C#\Day3\Lap10 Common Elements\Lap10 Common Elements\obj\Debug\net6.0\Lap10 Common Elements.genruntimeconfig.cache
+C:\Users\Dell\Documents\Code C#\Day3\Lap10 Common Elements\Lap10 Common Elements\obj\Debug\net6.0\ref\Lap10 Common Elements.dll
